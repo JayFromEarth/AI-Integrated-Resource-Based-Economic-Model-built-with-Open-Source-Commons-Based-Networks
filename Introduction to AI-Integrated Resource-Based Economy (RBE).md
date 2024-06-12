@@ -1,4 +1,4 @@
-# Introduction to AI-Integrated Resource-Based Economy (RBE)
+# 1. Introduction to AI-Integrated Resource-Based Economy (RBE)
 
 ## 1.1 Definition and Overview
 ### What is an AI-Integrated RBE? :robot:
